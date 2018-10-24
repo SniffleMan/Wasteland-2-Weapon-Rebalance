@@ -1,7 +1,6 @@
 # Wasteland 2 Weapon Rebalance
 
-**This changelog is a WiP, the mod changes assault rifles, handguns, machine guns, sniper rifles, shotguns, energy weapons, and bladed weapons, however, the changelog has yet to document all these changes. The mod itself, however, is largely complete.  
-I can be reached at https://www.reddit.com/user/SniffleMan/**
+**This changelog is a WiP, the mod changes assault rifles, handguns, machine guns, sniper rifles, shotguns, energy weapons, and bladed weapons, however, the changelog has yet to document all these changes. The mod itself, however, is largely complete.**
 
 This mod is an updated version of the original [Weapon Re-Balance Mod](https://forums.inxile-entertainment.com/viewtopic.php?f=18&t=10719)
 made to work with the latest version of the Director's Cut.
